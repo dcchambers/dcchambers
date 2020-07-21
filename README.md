@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- I work at [Zendesk](https://github.com/zendesk).
+- Check out my website: [chambers.io](https://chambers.io).
+- Current (technical) interests: Kubernetes, Docker, Containers, Linux, Unix,
+  Bash, Ruby, Rails, Python, GoLang, Vim, Git, GitHub Actions, Spinnaker,
+  Cloud Native Stuff.
+
 <!--
 **dcchambers/dcchambers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
