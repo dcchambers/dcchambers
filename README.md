@@ -2,12 +2,14 @@
 
 - I work at [Zendesk](https://github.com/zendesk).
 - Check out my website: [chambers.io](https://chambers.io).
-- Current (technical) interests: Kubernetes, Docker, Containers, Linux, Unix,
-  Bash, Ruby, Rails, Python, GoLang, Vim, Git, GitHub Actions, Spinnaker,
-  Cloud Native Stuff.
+- Technical interests: Kubernetes, Docker, Containers, Linux, Unix, Bash, Ruby,
+  Rails, Python, GoLang, Vim, Git, GitHub Actions, Spinnaker, Cloud Native
+  Stuff.
+- Non-technical interests: running, biking, water sports, reading, history,
+  writing, video games, drawing, pencils, premium paper & stationery.
 
-<!--
-**dcchambers/dcchambers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **dcchambers/dcchambers** is a ✨ _special_ ✨ repository because its
+`README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -18,5 +20,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: ...  -->
