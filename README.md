@@ -6,7 +6,8 @@
   Rails, Python, GoLang, Vim, Git, GitHub Actions, Spinnaker, Cloud Native
   Stuff.
 - Non-technical interests: running, biking, water sports, reading, history,
-  writing, video games, drawing, pencils, premium paper & stationery.
+  writing, video games, drawing, pencils, premium paper & stationery, coffee,
+  beer, bourbon, cooking, baking, fermentation.
 
 <!-- **dcchambers/dcchambers** is a ✨ _special_ ✨ repository because its
 `README.md` (this file) appears on your GitHub profile.
