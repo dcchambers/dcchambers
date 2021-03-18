@@ -1,12 +1,12 @@
 ### Hi there 👋
 
 - I work at [Zendesk](https://github.com/zendesk).
-- Check out my website: [chambers.io](https://chambers.io).
+- My website: [chambers.io](https://chambers.io).
 - Technical interests: Kubernetes, Docker, Containers, Linux, Unix, Bash, Ruby,
   Rails, Python, GoLang, Vim, Git, GitHub Actions, Spinnaker, Cloud Native
   Stuff.
 - Non-technical interests: running, biking, water sports, reading, history,
-  writing, video games, drawing, pencils, premium paper & stationery, coffee,
+  writing, video games, drawing, pencils, paper & stationery, coffee,
   beer, bourbon, cooking, baking, fermentation.
 
 <!-- **dcchambers/dcchambers** is a ✨ _special_ ✨ repository because its
