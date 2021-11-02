@@ -2,7 +2,7 @@
 
 - 💻 I work at [Zendesk](https://github.com/zendesk).
 - 💬 My website: [chambers.io](https://chambers.io).
-- 📖 [Currently Reading](https://www.goodreads.com/user/show/44353038-dakota-chambers): Dune, The Rise of Theodore Roosevelt
+- 📖 [Currently Reading](https://www.goodreads.com/user/show/44353038-dakota-chambers): Into Thin Air
 - 🐳 Technical interests: Kubernetes, Docker, Containers, Linux, Unix, Bash, Ruby,
   Rails, Python, GoLang, Vim, Git, GitHub Actions, Spinnaker, Cloud Native
   Stuff.
