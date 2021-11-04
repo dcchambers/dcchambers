@@ -1,10 +1,8 @@
 ### Hi there 👋
 
-
-
 - 💻 I work at [Zendesk](https://github.com/zendesk).
-- 💬 My website: [chambers.io](https://chambers.io).
-- 🐦 Other places to find me: [`dakota.omg.lol`](https://dakota.omg.lol/)
+- 💬 Website & Blog: [chambers.io](https://chambers.io).
+- <img src=assets/omg-dot-lol-favicon.png width=20px> Other places to find me: [dakota.omg.lol](https://dakota.omg.lol/)
 - 📖 [Currently Reading](https://www.goodreads.com/user/show/44353038-dakota-chambers): Into Thin Air
 - 🐳 Technical interests: Kubernetes, Docker, Containers, Linux, Unix, Bash, Ruby,
   Rails, Python, GoLang, Vim, Git, GitHub Actions, Spinnaker, Cloud Native
