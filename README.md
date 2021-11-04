@@ -1,15 +1,15 @@
 ### Hi there 👋
 
-- 💻 I work at [Zendesk](https://github.com/zendesk).
-- 💬 Website & Blog: [chambers.io](https://chambers.io).
+- 💻 I work at [Zendesk <img src=assets/zendesk-solo-z-logo.png width=20px>](https://github.com/zendesk)
+- 💬 Website & Blog: [chambers.io](https://chambers.io)
 - <img src=assets/omg-dot-lol-favicon.png width=20px> Other places to find me: [dakota.omg.lol](https://dakota.omg.lol/)
 - 📖 [Currently Reading](https://www.goodreads.com/user/show/44353038-dakota-chambers): Into Thin Air
 - 🐳 Technical interests: Kubernetes, Docker, Containers, Linux, Unix, Bash, Ruby,
   Rails, Python, GoLang, Vim, Git, GitHub Actions, Spinnaker, Cloud Native
-  Stuff.
+  Stuff
 - 🍞 Non-technical interests: running, biking, water sports, reading, history,
   writing, video games, drawing, pencils, paper & stationery, coffee,
-  beer, bourbon, cooking, sourdough baking, fermentation.
+  beer, bourbon, cooking, sourdough baking, fermentation
 
 <!-- **dcchambers/dcchambers** is a ✨ _special_ ✨ repository because its
 `README.md` (this file) appears on your GitHub profile.
