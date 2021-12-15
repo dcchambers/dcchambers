@@ -3,7 +3,7 @@
 - 💻 I work at [Zendesk <img src=assets/zendesk-solo-z-logo.png width=20px>](https://github.com/zendesk)
 - 💬 Website & Blog: [chambers.io](https://chambers.io)
 - <img src=assets/omg-dot-lol-favicon.png width=20px> Other places to find me: [dakota.omg.lol](https://dakota.omg.lol/)
-- 📖 [Currently Reading](https://www.goodreads.com/user/show/44353038-dakota-chambers): Into Thin Air
+- 📖 [Currently Reading](https://www.goodreads.com/user/show/44353038-dakota-chambers): Tartine Bread
 - 🐳 Technical interests: Kubernetes, Docker, Containers, Linux, Unix, Bash, Ruby,
   Rails, Python, GoLang, Vim, Git, GitHub Actions, Spinnaker, Cloud Native
   Stuff
