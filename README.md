@@ -4,6 +4,7 @@
 - 💬 Website & Blog: [chambers.io](https://chambers.io)
 - <img src=assets/omg-dot-lol-favicon.png width=20px> Other places to find me: [dakota.omg.lol](https://dakota.omg.lol/)
 - 📖 [Currently Reading](https://www.goodreads.com/user/show/44353038-dakota-chambers): The Lord of the Rings - J. R. R. Tolkien
+- 🎮 Currently Playing: [Vampire Survivors](https://store.steampowered.com/app/1794680/Vampire_Survivors/)
 - 🐳 Technical interests: Kubernetes, Docker, Containers, Linux, Unix, Bash, Ruby,
   Rails, Python, GoLang, Vim, Git, GitHub Actions, Spinnaker, Cloud Native
   Stuff
