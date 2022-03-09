@@ -6,8 +6,7 @@
 - 📖 [Currently Reading](https://www.goodreads.com/user/show/44353038-dakota-chambers): The Lord of the Rings - J. R. R. Tolkien
 - 🎮 Currently Playing: [Vampire Survivors](https://store.steampowered.com/app/1794680/Vampire_Survivors/)
 - 🐳 Technical interests: Kubernetes, Docker, Containers, Linux, Unix, Bash, Ruby,
-  Rails, Python, GoLang, Vim, Git, GitHub Actions, Spinnaker, Cloud Native
-  Stuff
+  Rails, GoLang, Vim, Git, GitHub Actions, Spinnaker, Cloud Native Stuff
 - 🍞 Non-technical interests: running, biking, water sports, reading, history,
   writing, video games, drawing, pencils, paper & stationery, coffee,
   beer, bourbon, cooking, sourdough baking, fermentation
