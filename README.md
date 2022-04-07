@@ -4,7 +4,7 @@
 - 💬 Website & Blog: [chambers.io]
 - 🧠 Knowledge Base: [kb.chambers.io]
 - <img src=assets/omg-dot-lol-favicon.png width=20px> Other places to find me: [dakota.omg.lol]
-- 📖 [Currently Reading]: Digital Minimalism - Cal Newport
+- 📖 [Currently Reading]: The Lean Startup - Eric Ries
 - 🎮 Currently Playing: [Vampire Survivors]
 - 🐳 Technical interests: Kubernetes, Docker, Containers, Linux, Unix, Bash, Ruby,
   Rails, GoLang, Vim, Git, GitHub Actions, Spinnaker, Cloud Native Stuff
