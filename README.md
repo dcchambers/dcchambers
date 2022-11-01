@@ -4,7 +4,7 @@
 - 💬 Website & Blog: [chambers.io]
 - 🧠 Knowledge Base: [kb.chambers.io]
 - <img src=assets/omg-dot-lol-favicon.png width=20px> Other places to find me: [dakota.omg.lol]
-- 📖 [Currently Reading]: The Lean Startup - Eric Ries, The Lord of the Rings - J.R.R Tolkien
+- 📖 [Currently Reading]: The Lord of the Rings - J.R.R Tolkien
 - 🎮 Currently Playing: [Vampire Survivors], [Horizon Zero Dawn], [Xenoblade Chronicles: Definitive Edition]
 - 🐳 Technical interests: Kubernetes, Docker, Containers, Linux, Unix, Bash, Ruby,
   Rails, GoLang, Vim, Git, GitHub Actions, Spinnaker, Cloud Native Stuff
