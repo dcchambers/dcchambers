@@ -2,7 +2,7 @@
 
 - 💻 I work at [Zendesk <img src=assets/zendesk-solo-z-logo.png width=20px>](https://github.com/zendesk)
 - 💬 Website & Blog: [chambers.io]
-- 🧠 Knowledge Base: [kb.chambers.io]
+- 🧠 Knowledge Base / 🌱 Digital Garden: [kb.chambers.io]
 - <img src=assets/omg-dot-lol-favicon.png width=20px> Other places to find me: [dakota.omg.lol]
 - 📖 [Currently Reading]: The Lord of the Rings - J.R.R Tolkien
 - 🎮 Currently Playing: [The Legend of Zelda: Tears of the Kingdom], [Symphony of War: The Nephilim Saga]
