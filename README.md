@@ -4,9 +4,7 @@
 
 <br>
 
-[`website`][ws] [`blog`][blog] [`about me`][ab]
-
-[`now`][now] [`notes`][notes] [`find me`][omg]
+[`website`][ws] [`blog`][blog] [`about me`][ab] [`now`][now] [`notes`][notes] [`find me`][omg]
 
 </div>
 
