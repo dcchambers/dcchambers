@@ -17,6 +17,6 @@
 [ab]: https://chambers.io/about
 [blog]: https://chambers.io/blog
 [notes]: https://publish.obsidian.md/dakota
-[now]: https://dakota.omg.lol/now
+[now]: https://chambers.io/now
 [omg]:https://dakota.omg.lol/
 [ws]: https://chambers.io
